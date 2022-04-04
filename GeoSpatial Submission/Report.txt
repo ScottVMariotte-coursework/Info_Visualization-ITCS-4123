@@ -1,0 +1,19 @@
+keys 0 and 1 through 4 change the data being displayed
+
+Covid Data https://data.world/associatedpress/johns-hopkins-coronavirus-case-tracker
+
+0,total_population
+1,confirmed
+2,confirmed_per_100000
+3,deaths
+4,deaths_per_100000
+
+One thing I noticed is that there is a lot of missing data and it seems
+that when adding the populations up they don't seem to match what's on record when I google state populations on the internet.\
+This caused me to think that there was something wrong with my code but I don't think that is the case.
+
+One thing I noticed is that North Carolina showed up as having a lot of deaths but when you look at the deaths_per_100000 it
+appears to be a little below the average.
+
+I think the visualization of this data could be misleading. It looks like there  may be missing 
+information based on what I saw from the total_population data.
